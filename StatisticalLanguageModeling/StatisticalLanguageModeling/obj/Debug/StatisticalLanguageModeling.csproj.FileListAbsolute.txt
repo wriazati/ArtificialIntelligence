@@ -1,0 +1,6 @@
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\bin\Debug\StatisticalLanguageModeling.exe.config
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\bin\Debug\StatisticalLanguageModeling.exe
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\bin\Debug\StatisticalLanguageModeling.pdb
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\obj\Debug\StatisticalLanguageModeling.exe
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\obj\Debug\StatisticalLanguageModeling.pdb
+c:\users\will\documents\visual studio 2012\Projects\StatisticalLanguageModeling\StatisticalLanguageModeling\obj\Debug\StatisticalLanguageModeling.csprojResolveAssemblyReference.cache
