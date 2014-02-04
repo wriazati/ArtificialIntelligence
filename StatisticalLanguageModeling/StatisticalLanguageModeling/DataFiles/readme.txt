@@ -1,4 +1,4 @@
-The data files for homework 3 are:
+The data files for are:
 
   vocab.txt
   unigram.txt
